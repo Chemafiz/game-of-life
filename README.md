@@ -6,5 +6,5 @@ More info about *The game of life* : https://en.wikipedia.org/wiki/Conway%27s_Ga
 The program displays the next steps of life in simple "terminal animation"
 Example of running program:  
 
-https://user-images.githubusercontent.com/72997724/168681296-1af9d7c9-59e4-447e-8fc2-8bb13b992edc.mp4
+https://user-images.githubusercontent.com/72997724/168681415-4591e8c6-2512-40b2-be94-a5358c0bd672.mp4
 
